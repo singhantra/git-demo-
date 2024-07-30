@@ -8,6 +8,7 @@ A short poem may be a stylistic choice or it may be that you have said what you 
 FAMOUS POEM
 
  By Robert Frost
+
 Nature's first green is gold,
 Her hardest hue to hold.
 Her early leaf's a flower;
@@ -17,6 +18,7 @@ But only so an hour.
 FAMOUS POEM
 
  By Ella Wheeler Wilcox
+
 A trusting little leaf of green,
 A bold audacious frost;
 A rendezvous, a kiss or two,
